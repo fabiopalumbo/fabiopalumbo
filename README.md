@@ -8,9 +8,11 @@ A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br />
+<br />
+<br />
 ### I am Fabio Palumbo
 - CKA 
 - Solution Architect AWS
