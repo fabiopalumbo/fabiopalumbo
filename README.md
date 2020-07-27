@@ -8,11 +8,10 @@ A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br />
-<br />
-<br />
+
+
+
 ### I am Fabio Palumbo
 - CKA 
 - Solution Architect AWS
@@ -21,10 +20,12 @@ A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
 
 ⭐️ From [fabiopalumbo](https://https://github.com/fabiopalumbo/)
 
-[![Fabio Palumbo's github stats](https://github-readme-stats.vercel.app/api?username=fabiopalumbo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Index
 [WIP]
+
+[![Fabio Palumbo's github stats](https://github-readme-stats.vercel.app/api?username=fabiopalumbo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
