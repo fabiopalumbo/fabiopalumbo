@@ -1,4 +1,5 @@
-# Che Boludo!
+# ![Hi 👋, I'm Fabio Palumbo, A passionate DevopS /SRE 👨‍💻 from Buenos Aires, Argentina](/images/header.png)
+
 A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/fppalumbo/">
