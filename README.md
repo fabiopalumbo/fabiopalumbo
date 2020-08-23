@@ -1,4 +1,4 @@
-# ![Hi 👋, I'm Fabio Palumbo, A passionate DevopS /SRE 👨‍💻 from Buenos Aires, Argentina](/images/header.png)
+# ![Hi 👋, I'm Fabio Palumbo, A passionate DevopS /SRE 👨‍💻 from Buenos Aires, Argentina](https://github.com/fabiopalumbo/fabiopalumbo/blob/master/images/header.png)
 
 A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
