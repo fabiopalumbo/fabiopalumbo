@@ -1,4 +1,4 @@
-# ![Hi 👋, I'm Fabio Palumbo, A passionate DevopS /SRE 👨‍💻 from Buenos Aires, Argentina](https://github.com/fabiopalumbo/fabiopalumbo/blob/master/images/header.png)
+# ![Hi 👋, I'm Fabio Palumbo, A passionate Devops /SRE 👨‍💻 from Buenos Aires, Argentina](https://github.com/fabiopalumbo/fabiopalumbo/blob/master/images/header.png)
 
 A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -14,9 +14,12 @@ A short Readme.  <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
 
 
 ### I am Fabio Palumbo
-- CKA 
+- CKA (Certified Kunerneted Administrator
 - Solution Architect AWS
-- Azure 204 Certification
+- Azure 304 Certification (Solution Architect Path)
+- GCP Solution Architect
+- CCNA (long time no see)
+- Barracuda Firewall Administrator
 - I love to learn and contribute in any and every possible way.
 
 ⭐️ From [fabiopalumbo](https://https://github.com/fabiopalumbo/)
